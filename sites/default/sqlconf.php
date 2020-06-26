@@ -2,11 +2,11 @@
 //  OpenEMR
 //  MySQL Config
 
-$host	= 'localhost';
+$host	= 'us-cdbr-east-02.cleardb.com';
 $port	= '3306';
-$login	= 'openemr';
-$pass	= 'OpenEmr1234';
-$dbase	= 'openemr';
+$login	= 'be4e2c82cff8f3';
+$pass	= '0446941a';
+$dbase	= 'heroku_d4bd8b7f8983fa6';
 
 //Added ability to disable
 //utf8 encoding - bm 05-2009
