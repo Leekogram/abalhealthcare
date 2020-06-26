@@ -3,7 +3,7 @@
 //  MySQL Config
 
 $host	= 'us-cdbr-east-02.cleardb.com';
-$port	= '3306';
+//$port	= '3306';
 $login	= 'be4e2c82cff8f3';
 $pass	= '0446941a';
 $dbase	= 'heroku_d4bd8b7f8983fa6';
@@ -16,7 +16,7 @@ $disable_utf8_flag = false;
 $sqlconf = array();
 global $sqlconf;
 $sqlconf["host"]= $host;
-$sqlconf["port"] = $port;
+//$sqlconf["port"] = $port;
 $sqlconf["login"] = $login;
 $sqlconf["pass"] = $pass;
 $sqlconf["dbase"] = $dbase;
